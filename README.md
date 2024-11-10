@@ -11,3 +11,14 @@ The application will overlay the electrical harness of machines on top of a imag
 Due to the non-disclosure agreements (NDAs) between the company, the university and we students, the source code of the project is not available.
 
 Here is a related [Linkedin Post](https://www.linkedin.com/posts/lacey-collins-52580_great-day-at-the-university-of-nottingham-ugcPost-7196545836187549699-XhSU).
+
+## Images form Project Demonstration Day
+
+| ![1](./img/demoday-1.jpg) | ![2](./img/demoday-2.jpg) | ![3](./img/demoday-3.jpg) |
+| :-: | :-: | :-: |
+
+## Images form Our Visit to JCB Headquarters
+
+| ![](./img/visit-1.jpg) | ![](./img/visit-2.jpg) |
+| :-: | :-: |
+| ![](./img/visit-3.jpg) | ![](./img/visit-4.jpg) |
